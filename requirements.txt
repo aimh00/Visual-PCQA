@@ -1,0 +1,9 @@
+pip install torch
+pip install numpy
+pip install scipy
+pip install scikit-learn
+pip install tqdm
+pip install open3d
+pip install pandas
+pip install xlrd
+pip install plyfile
